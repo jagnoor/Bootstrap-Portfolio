@@ -104,3 +104,16 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+
+/* Adding */
+
+.main {
+
+  float: left;
+}
+
+.lead {
+
+  float: left;
+}
