@@ -57,3 +57,18 @@ padding; 70px;
 body {
     background-color: red;
   }
+
+  /* Footer  */
+
+  #footer {
+     bottom: 0;
+     width: 100%;
+     position: absolute;
+     background-color: #e3f2fd;
+     text-align: center;
+     color:gray;
+     }
+
+     .footer-block {
+       margin: 20px 0;
+     }
